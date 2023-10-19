@@ -27,6 +27,8 @@ What you should learn from this project:
 
 * At least four different sorting algorithms
 * What is the Big O notation, and how to evaluate the time complexity of an algorithm
+* How to select the best sorting algorithm for a given input
+* How to make an informed decision to enable you choose a stable algorithm
 
 ---
 
