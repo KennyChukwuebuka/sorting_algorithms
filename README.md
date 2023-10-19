@@ -1,6 +1,7 @@
 # 0x1B. C - Sorting algorithms & Big O
 
-## Resources:books:
+## Resources:books:light:
+
 Read or watch:
 * [Big-O Algorithm Complexity Cheat](https://www.bigocheatsheet.com/)
 * [Big O Notation - Ruby Reilly](https://medium.com/@rubyclaroreilly/big-o-notation-f2c0d0e60888)
