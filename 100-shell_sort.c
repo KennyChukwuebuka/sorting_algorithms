@@ -1,7 +1,7 @@
 #include "sort.h"
 
 /**
- * shell_sort - Sorts array of integers in 
+ * shell_sort - Sorts array of integers in
  * ascending order using shell sort technique.
  * @array: Array to be sorted.
  * @size: Size of the array.
@@ -10,7 +10,7 @@
 
 void shell_sort(int *array, size_t size)
 {
-	int a, b, k, l, knuth,tmp;
+	int a, b, k, l, knuth, tmp;
 
 	if (!array)
 		return;
