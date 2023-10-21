@@ -12,7 +12,7 @@ void shell_sort(int *array, size_t size)
 {
 	int a, b, k, l, knuth, tmp;
 
-	if (!array)
+	if (!array || size < 2)
 		return;
 
 	l = (int)size;
