@@ -37,4 +37,7 @@ void shell_sort(int *array, size_t size);
 void cocktail_sort_list(listint_t **list);
 void swap_node(listint_t **list, listint_t *node1, listint_t *node2);
 void counting_sort(int *array, size_t size);
+void heap_sort(int *array, size_t size);
+void swap_sort(int *a_swp, int *b_swp);
+void Heap_Convert(int *array, size_t size, int start, size_t end);
 #endif /*sort.h*/
