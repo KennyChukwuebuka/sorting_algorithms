@@ -14,7 +14,7 @@ int lomuto_partition_scheme(int *array, int low, int high, size_t size)
 
 	pivot = array[high];
 	a = low;
-	for (b = low; b < high; b++)
+	for (a = b = low; b < high; b++)
 	{
 		if (array[b] < pivot)
 		{
